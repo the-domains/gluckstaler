@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:20:37.928Z'
-dateModified: '2016-02-17T17:20:35.330Z'
+datePublished: '2016-02-17T17:22:34.620Z'
+dateModified: '2016-02-17T17:22:31.960Z'
 title: "RALPH\_LENGLER"
 author: []
 sourcePath: _posts/2016-02-17-ralph-lengler.md
@@ -35,3 +35,7 @@ With my background in Information Visualization, Design & Human Factors, I'm a s
 My goal is to create better products & services using a human centered design approach.
 
 Discussion and business partners describe me as an enthousiastic, solution & detailed-oriented, self-motivated teamplayer.
+
+# PORTFOLIO
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f48e160b-53ea-4ae9-abb5-5b50aa15d701.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/332c228d-4eb3-40d6-9d70-97f9645e583d.jpg)
