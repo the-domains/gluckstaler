@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:05:05.157Z'
-dateModified: '2016-02-17T17:00:06.718Z'
+datePublished: '2016-02-17T17:10:36.127Z'
+dateModified: '2016-02-17T17:10:34.121Z'
 title: RALPHLENGLER
 author: []
+sourcePath: _posts/2016-02-17-ralphlengler.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-ralphlengler.md
-published: true
 url: ralphlengler/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/678bd756-2f2f-4b22-8748-e9b30a3dd81a.jpg)
+
 UX Designer / Architect & Business Analyst / Strategist
 
 # **RALPH****LENGLER**
@@ -33,4 +35,3 @@ With my background in Information Visualization, Design & Human Factors, I'm a s
 My goal is to create better products & services using a human centered design approach.
 
 Discussion and business partners describe me as an enthousiastic, solution & detailed-oriented, self-motivated teamplayer.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/266630d8-8445-4055-98d8-a708d77bbf05.jpg)
