@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:16:58.698Z'
-dateModified: '2016-02-17T17:15:34.340Z'
+datePublished: '2016-02-17T17:20:37.928Z'
+dateModified: '2016-02-17T17:20:35.330Z'
 title: "RALPH\_LENGLER"
 author: []
+sourcePath: _posts/2016-02-17-ralph-lengler.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-ralph-lengler.md
-published: true
 url: ralph-lengler/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6199f2f9-aae4-480d-82dd-68f527a022bc.jpg)
 
-UX Designer / Architect & Business Analyst / Strategist
+**UX Designer / Architect & Business Analyst / Strategist**
 
 # **RALPH ****LENGLER**
 
