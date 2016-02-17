@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:10:36.127Z'
-dateModified: '2016-02-17T17:10:34.121Z'
+datePublished: '2016-02-17T17:11:31.505Z'
+dateModified: '2016-02-17T17:11:27.130Z'
 title: RALPHLENGLER
 author: []
 sourcePath: _posts/2016-02-17-ralphlengler.md
