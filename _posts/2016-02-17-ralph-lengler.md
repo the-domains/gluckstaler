@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:46:09.482Z'
-dateModified: '2016-02-17T17:45:57.671Z'
+datePublished: '2016-02-17T17:46:20.879Z'
+dateModified: '2016-02-17T17:46:11.860Z'
 title: "RALPH\_LENGLER"
 author: []
 sourcePath: _posts/2016-02-17-ralph-lengler.md
@@ -38,5 +38,5 @@ Discussion and business partners describe me as an enthousiastic, solution & det
 
 # PORTFOLIO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f48e160b-53ea-4ae9-abb5-5b50aa15d701.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdde6921-c023-454c-982f-8f0047467661.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/332c228d-4eb3-40d6-9d70-97f9645e583d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdde6921-c023-454c-982f-8f0047467661.jpg)
