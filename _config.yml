@@ -1,0 +1,28 @@
+name: Gluckstaler
+favicon: null
+layout_spectrum: 0.4133519474416971
+typography_spectrum: 0.13608153304085135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6663780375383794
+  lightness: 0.5544032617472112
+  saturation: 0.6928386790677905
+  rhythmicContrast: 0.15160988504067063
+purpose: []
