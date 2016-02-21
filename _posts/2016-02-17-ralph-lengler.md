@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:46:20.879Z'
-dateModified: '2016-02-17T17:46:11.860Z'
+datePublished: '2016-02-21T13:34:08.482Z'
+dateModified: '2016-02-21T13:33:32.341Z'
 title: "RALPH\_LENGLER"
 author: []
 sourcePath: _posts/2016-02-17-ralph-lengler.md
@@ -27,6 +27,8 @@ _type: Article
 **UX Designer / Architect & Business Analyst / Strategist**
 
 # **RALPH ****LENGLER**
+
+This site was designed by a smart robot and not by a designer.
 
 I believe technology should empower people and make them feel awesome. It should assist and connect them, be unobtrusive and letting them focus on getting things done.
 
